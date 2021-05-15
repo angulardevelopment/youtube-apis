@@ -1,3 +1,14 @@
+# About
+
+get YouTube video data by using  YouTube data API
+
+https://console.cloud.google.com/apis/dashboard?project=test-312512&folder=&organizationId=
+from this link enable Youtube data api v3 service and copy the API key
+
+For more API info check-
+https://developers.google.com/youtube/v3/docs
+
+npm install ngx-spinner --save
 # Youtube
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
